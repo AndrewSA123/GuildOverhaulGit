@@ -1,0 +1,1 @@
+print("Thank you " .. UnitName("player") .. " for downloading GuildOverhaul!")

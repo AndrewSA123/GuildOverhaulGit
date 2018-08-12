@@ -1,0 +1,10 @@
+## Interface: 80000
+## Title: GuildOverhaul
+## Notes: Making the Guild UI nicer to look at!
+## Author: CloakOfMemes of Magtheradon
+## Version: 0.1
+## DefaultState: Enabled
+## SavedVariables: GOdata
+
+GuildOverhaul.lua
+
